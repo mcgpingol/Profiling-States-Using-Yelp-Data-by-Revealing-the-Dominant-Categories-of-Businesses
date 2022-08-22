@@ -1,4 +1,4 @@
-# Profiling-States-Using-Yelp-Data-by-Revealing-the-Dominant-Categories-of-Businesses
+# Profiling States Using Yelp Data by Revealing the Dominant Categories of Businesses
 
 A city’s establishments are its lifeblood - businesses both big and small provide employment and enjoyment to citizens and provide taxes to the public sector. Cities grow to have their own identities and personalities, for example: Makati is known for its traditional business district, skyscrapers, and traffic enforcers while BGC is known to be trendier, with its business district growing alongside its recreational establishments. However, a city may not be readily aware of its offerings to the public and may not understand what it can do to improve the collection of its establishments in order to draw more visitors. The goal of our analysis is to describe the identity of a city by studying their dominant Yelp establishments and possibly use this information to identify opportunities for the city.
 
